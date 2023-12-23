@@ -1,0 +1,21 @@
+.slide-container {
+  list-style-type: none;
+}
+.slide-heading {
+  color: #0967d2;
+  font-size: 30px;
+}
+.slide-description {
+  color: #334155;
+  font-size: 20px;
+}
+.slide-btn {
+  background-color: transparent;
+  border: none;
+  box-shadow: 16px 16px 16px 16px #ffffff;
+  padding: 30px;
+  font-family: 'Bree Serif';
+  text-align: center;
+  margin: 20px;
+  width: 80%;
+}

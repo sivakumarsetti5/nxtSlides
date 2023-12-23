@@ -1,0 +1,20 @@
+.new-btn {
+  background-color: #dbeafe;
+  border: none;
+  border-radius: 10px;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  padding: 10px 15px;
+  margin-left: 20px;
+}
+.plus-btn {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.new-text {
+  font-family: Bree Serif;
+  font-weight: bold;
+  font-size: 20px;
+}
